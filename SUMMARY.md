@@ -1,6 +1,6 @@
 # Table of contents
 
-* Initial page
+* Luminus-kr
 * Your First Application
   * Guestbook Application
 * [Clojure Script](clojure-script/README.md)
